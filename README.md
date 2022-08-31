@@ -10,7 +10,7 @@
 
 ## 系统框架
 <p align="center">
-<img width = '1007' height = '1368' src = "https://github.com/ZTZWILL/UDP-based-broadcast-streaming-media-project/tree/main/images/server.jpg"/>
+<img width = '1012' height = '1180' src = "https://github.com/ZTZWILL/UDP-based-broadcast-streaming-media-project/tree/main/images/server.jpg"/>
 </p>
 
 ## 项目部署
