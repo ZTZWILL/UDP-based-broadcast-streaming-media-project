@@ -13,6 +13,9 @@
 <img width = '1012' height = '1180' src = "https://github.com/ZTZWILL/UDP-based-broadcast-streaming-media-project/blob/main/images/server.png"/>
 </p>
 
+<p align="center">
+<img width = '1007' height = '1368' src = "https://github.com/ZTZWILL/UDP-based-broadcast-streaming-media-project/blob/main/images/client.jpg"/>
+</p>
 ## 项目部署
 ### 编译
 ```powershell
